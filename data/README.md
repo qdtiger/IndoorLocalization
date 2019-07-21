@@ -11,7 +11,7 @@ Indoor localization research has drawn much attention recently. However,  compar
 |                    IPIN 2017 Competition                     |     RSS     |                                         |      |                       |           |
 |   [TUT dataset](http://www.cs.tut.fi/tlt/pos/Software.htm)   |     RSS     | one fingerprint per Reference Point(RP) |      |                       |    [4]    |
 |  [uiuc/uim dataset](http://crawdad.org/uiuc/uim/20120124/)   |     RSS     |                                         |  13  |       221 m$^2$       |    [5]    |
-|              [kth/rss dataset](kth/rss dataset)              |     RSS     |                                         |      |                       |    [6]    |
+|    [kth/rss dataset](http://crawdad.org/kth/rss/20160105)    |     RSS     |                                         |      |                       |    [6]    |
 | [Fingerprint tracest from mannheim/compass dataset](https://crawdad.org/mannheim/compass/20080411/fingerprint/) |     RSS     |           110 samples per RP            |      |       221 m$^2$       |    [7]    |
 | [UJIIndoorLoc Database](https://archive.ics.uci.edu/ml/datasets/ujiindoorloc) |     RSS     |                  25948                  | 520  |       110 m$^2$       |    [8]    |
 | [Indoor User Movement Prediction from RSSI dataset](https://archive.ics.uci.edu/ml/datasets/Indoor+User+Movement+Prediction+from+RSS+data) |     RSS     |                  13197                  |  4   |                       |    [9]    |
