@@ -2,8 +2,6 @@
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-# IndoorLocalization
-
 This repository provides everything about indoor localization, which is for you:
 
 - **You're new to Indoor Localization**
