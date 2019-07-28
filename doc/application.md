@@ -13,6 +13,6 @@
 - [u-blox](https://www.u-blox.com)
   - The product integrates multi-band RTK and dead reckoning on a module.
 - [OSENSE](http://www.osensetech.com)
-  - Fusing computer vision and magnetic filtering to achieve indoor positioning and navigation, where the result is provided via the AR user interface.
+  - Fusing computer vision and magnetic filtering to achieve indoor positioning and navigation. The result is provided via the AR user interface.
 - [AiroCov](http://www.airocov.com/)
   - A hybrid indoor localization product combining UWB, WiFi, Bluetooth, and INS. In addition, a high precision 2D/3D map solution is provided.
